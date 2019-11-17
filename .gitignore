@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 
 .idea
+
+meme_model.h5
+meme.png
